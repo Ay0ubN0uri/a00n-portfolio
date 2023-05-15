@@ -4,9 +4,7 @@ import Particles from "react-tsparticles";
 
 const sliderContent = {
   name: "Nouri Ayoub (A00N)",
-  description: `I design and develop services for customers of all sizes,
-  specializing in creating stylish, modern websites, web
-  services and online stores.`,
+  description: `I have an insatiable curiosity for technology and enjoy the challenge of both building and breaking systems. It's a constant game of cat and mouse, and I thrive on the rush of outsmarting even the most advanced security measures.`,
   btnText: "DOWNLOAD CV",
 };
 
@@ -132,9 +130,9 @@ const SliderTwo = () => {
                   data-aos-delay="200"
                 >
                   <TextLoop>
-                    <p className="loop-text lead"> Software Engineer</p>
-                    <p className="loop-text lead">Visual Designer</p>
-                    <p className="loop-text lead"> Grphic Designer</p>
+                    <p className="loop-text lead">Full-Stack Web Developer</p>
+                    <p className="loop-text lead">Bug Bounty Hunter</p>
+                    <p className="loop-text lead">Software Engineer</p>
                   </TextLoop>
                 </div>
                 <p
@@ -153,8 +151,8 @@ const SliderTwo = () => {
                 >
                   <a
                     className="px-btn px-btn-white"
-                    href="img/resume.png"
-                    download
+                    href="#"
+                    // download
                   >
                     {sliderContent.btnText}
                   </a>

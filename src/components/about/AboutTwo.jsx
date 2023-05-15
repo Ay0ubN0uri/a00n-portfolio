@@ -37,17 +37,14 @@ const AboutTwo = () => {
                 </div>
                 <div className="about-text">
                   <p>
+                  I have an insatiable curiosity for technology and enjoy the challenge of both building and breaking systems. It's a constant game of cat and mouse, and I thrive on the rush of outsmarting even the most advanced security measures.
+                  </p>
+                  {/* <p>
                     I'm a Freelancer Front-end Developer with over 3 years of
                     experience. I'm from San Francisco. I code and create web
                     elements for amazing people around the world. I like work
                     with new people. New people new Experiences.
-                  </p>
-                  <p>
-                    I'm a Freelancer Front-end Developer with over 3 years of
-                    experience. I'm from San Francisco. I code and create web
-                    elements for amazing people around the world. I like work
-                    with new people. New people new Experiences.
-                  </p>
+                  </p> */}
                 </div>
                 <div className="info-list">
                   <div className="row">
@@ -65,17 +62,17 @@ const AboutTwo = () => {
                           <label>Age: </label>
                           <span>21 years</span>
                         </li>
-                        <li>
+                        {/* <li>
                           <label>Address: </label>
                           <span>San Francisco</span>
-                        </li>
+                        </li> */}
                       </ul>
                     </div>
                     <div className="col-sm-6">
                       <ul>
                         <li>
                           <label>Phone: </label>
-                          <span>(+38) 469 2344 2364</span>
+                          <span>(+212) 623 704 056</span>
                         </li>
                         <li>
                           <label>Email: </label>
@@ -115,14 +112,14 @@ const AboutTwo = () => {
           {/* End .row */}
 
           {/* separated */}
-          <div
+          {/* <div
             className="separated"
             style={{
               backgroundImage: `url(${
                 process.env.PUBLIC_URL + "img/border-dark.png"
               })`,
             }}
-          ></div>
+          ></div> */}
           {/* End separated */}
 
           {/* <div className="title">

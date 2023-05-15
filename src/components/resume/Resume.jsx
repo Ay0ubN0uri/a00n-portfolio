@@ -3,58 +3,47 @@ import Skills from "../skills/Skills";
 
 const resumeContent = [
   {
-    jobPosition: `Sr. Front-end Engineer`,
+    jobPosition: `Application web mobile des articles de la mode et vente aux enchères`,
     jobType: `Google | Remote`,
-    jobDuration: `Feb 2021 - Present`,
-    timeDuraton: `Full Time`,
-    compnayName: "Google LLC",
-    jobDescription: `Adipisicing Lorem ipsum dolor sit amet, consectetur elit,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    jobDuration: `Apr-Jul 2022`,
+    timeDuraton: `3 months`,
+    compnayName: "  INTELLCAP SARL",
+    jobDescription: `Realization of an e-commerce platform for fashion items using wordpress development.`,
   },
   {
-    jobPosition: `Visual Designer`,
+    jobPosition: `Système de gestion des étudiants Site Web & Application Mobile`,
     jobType: `Ridian | Remote`,
-    jobDuration: `Mar 2020 - Present`,
-    timeDuraton: `Part Time`,
-    compnayName: "Ridian IT",
-    jobDescription: `Ut enim ad minim veniam, quis nostrud exercitation ullamco
-    laboris nisi ut aliquip ex ea commodo consequat. Duis aute
-    irure dolor. Lorem ipsum dolor sit amet, consectetur
-    adipisicing elit, sed do eiusmod tempor incididunt ut
-    labore et dolore magna aliqua.`,
+    jobDuration: `Apr-Jul 2022`,
+    timeDuraton: `3 months`,
+    compnayName: "Ecole supérieure de technologie de Beni Mellal",
+    jobDescription: `Development of a school management application using the Odoo ERP solution for the desktop version and Ionic for the mobile version. This application allows you to manage student registrations, timetables, grades, absences as well as the management of teachers and administrative staff.`,
   },
   {
-    jobPosition: `Animation Artist`,
-    jobType: `IbThemes | Remote`,
-    jobDuration: `Jan 2019 - Present`,
-    timeDuraton: `Full Time`,
-    compnayName: "IB Themes",
-    jobDescription: ` Consectetur adipisicing elit,lorem ipsum dolor sit amet,
-    sed do eiusmod tempor incididunt ut labore et dolore magna
-    aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-    ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor.`,
+    jobPosition: `E-commerce website`,
+    jobType: `Est Essaouira`,
+    jobDuration: `Jul-Aug 2021`,
+    timeDuraton: `2 months`,
+    compnayName: "Ecole supérieure de technologie d'Essaouira",
+    jobDescription: ` Built an e-commerce platform using JEE, delivering a seamless user experience. Implemented essential features like product management, shopping cart functionality and secure payment processing.
+    Leveraged JEE's capabilities for scalability and integration, ensuring reliable performance and customer satisfaction.`,
   },
 ];
 
 const educatonContent = [
   {
-    passingYear: "2018-2020",
-    degreeTitle: "Ph.D in Horriblensess",
-    instituteName: "University Of Evil Doing",
+    passingYear: "2022-2025",
+    degreeTitle: "computer engineering and emerging technologies",
+    instituteName: " Ecole Nationale des sciences appliquées d'El Jadida",
   },
   {
-    passingYear: "2013-2016",
-    degreeTitle: "Bsc. in Computer Science",
-    instituteName: "World University",
+    passingYear: "2020-2022",
+    degreeTitle: "DUT in computer engineering",
+    instituteName: "Ecole supérieure de technologie de BENI MELLAL",
   },
   {
-    passingYear: "2010-2012",
-    degreeTitle: "Graphic Artist Training ",
-    instituteName: "Graphic Master Institute",
+    passingYear: "2019-2020",
+    degreeTitle: "Bachelor of Physical Sciences ",
+    instituteName: "Oum Romman High School",
   },
 ];
 
@@ -74,7 +63,7 @@ const Resume = () => {
                   <div className="col-md-4 col-xl-3">
                     <div className="rb-left">
                       <h6>{val.jobPosition}</h6>
-                      <label>{val.jobType}</label>
+                      {/* <label>{val.jobType}</label> */}
                       <p>{val.jobDuration}</p>
                       <div className="rb-time">{val.timeDuraton}</div>
                     </div>

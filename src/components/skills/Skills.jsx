@@ -10,16 +10,22 @@ const skillContent = [
     endCount: "96",
   },
   {
-    name: "React JS",
-    numberPercent: "85",
-    startCount: "0",
-    endCount: "85",
-  },
-  {
-    name: "Vue Js",
+    name: "Web Scraping",
     numberPercent: "90",
     startCount: "0",
     endCount: "90",
+  },
+  {
+    name: "MERN Stack",
+    numberPercent: "88",
+    startCount: "0",
+    endCount: "88",
+  },
+  {
+    name: "Laravel",
+    numberPercent: "85",
+    startCount: "0",
+    endCount: "85",
   },
   {
     name: "Ui/Ux",

@@ -3,21 +3,18 @@ import React from "react";
 const ServiceContent = [
   {
     icon: "icon-mobile",
-    title: "Web Design",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    title: "Mobile Development",
+    descriptions: `Deliver high-quality, cross-platform solutions that offer seamless user experiences. From design to deployment.`,
   },
   {
     icon: "icon-desktop",
     title: "Web Development",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    descriptions: `Leveraging the latest web technologies and frameworks and ensure a responsive and highly functional websites that engage users.`,
   },
   {
     icon: "icon-target",
-    title: "Seo Marketing",
-    descriptions: `Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.`,
+    title: "Bug Hunting",
+    descriptions: `Identifying and resolving vulnerabilities in software systems and provide comprehensive reports for improved security.`,
   },
 ];
 export default function Service() {

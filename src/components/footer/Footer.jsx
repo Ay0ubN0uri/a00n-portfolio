@@ -9,10 +9,10 @@ import {
 
 const SocialShare = [
   { Social: <FaFacebookF />, link: "https://www.facebook.com/" },
-  { Social: <FaTwitter />, link: "https://www.linkedin.com/" },
-  { Social: <FaInstagram />, link: "https://www.instagram.com/" },
-  { Social: <FaLinkedinIn />, link: "https://twitter.com/" },
-  { Social: <FaPinterestP />, link: "https://www.pinterest.com/" },
+  { Social: <FaLinkedinIn />, link: "https://www.linkedin.com/in/ayoub-nouri-73532a244/" },
+  { Social: <FaInstagram />, link: "https://www.instagram.com/ay0ub.n0uri" },
+  // { Social: <FaTwitter />, link: "https://www.linkedin.com/" },
+  // { Social: <FaPinterestP />, link: "https://www.pinterest.com/" },
 ];
 
 const Footer = () => {
@@ -34,13 +34,6 @@ const Footer = () => {
         <div className="col-md-6 my-2 text-center text-md-end">
           <p>
             © {new Date().getFullYear()} copyright{" "}
-            <a
-              href="https://themeforest.net/user/ib-themes/portfolio"
-              target="_blank"
-              rel="noreferrer"
-            >
-              ib-themes
-            </a>{" "}
             all right reserved
           </p>
         </div>

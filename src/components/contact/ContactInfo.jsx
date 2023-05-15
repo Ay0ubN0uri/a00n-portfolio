@@ -14,20 +14,20 @@ const ContactInfo = () => {
           <li className="media">
             <i className="icon icon-map"></i>
             <span className="media-body">
-              123 Stree New York City , United States Of America 750065.
+              HAY ZAOUIA LKDIMA RUE 23 NR 13
             </span>
           </li>
           {/* End li */}
 
           <li className="media">
             <i className="icon icon-envelope"></i>
-            <span className="media-body">support@domain.com</span>
+            <span className="media-body">ayoub.nouri105@gmail.com</span>
           </li>
           {/* End li */}
 
           <li className="media">
             <i className="icon icon-phone"></i>
-            <span className="media-body">+044 9696 9696 3636</span>
+            <span className="media-body">+212 623 704 056</span>
           </li>
           {/* End li */}
         </ul>
