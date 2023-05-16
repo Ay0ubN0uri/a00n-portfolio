@@ -10,6 +10,12 @@ const skillContent = [
     endCount: "96",
   },
   {
+    name: "C/CPP",
+    numberPercent: "93",
+    startCount: "0",
+    endCount: "93",
+  },
+  {
     name: "Web Scraping",
     numberPercent: "90",
     startCount: "0",
@@ -22,16 +28,22 @@ const skillContent = [
     endCount: "88",
   },
   {
-    name: "Laravel",
+    name: "Php/Laravel",
     numberPercent: "85",
     startCount: "0",
     endCount: "85",
   },
   {
-    name: "Ui/Ux",
-    numberPercent: "88",
+    name: "Web3",
+    numberPercent: "85",
     startCount: "0",
-    endCount: "88",
+    endCount: "85",
+  },
+  {
+    name: "Java",
+    numberPercent: "85",
+    startCount: "0",
+    endCount: "85",
   },
 ];
 
