@@ -1,23 +1,18 @@
-## Project setup
+<h4 align="center"> My Personal PortFolio WebSite!</h4>
 
-```
-npm install
-```
+<p align="center">
+    <img src="https://img.shields.io/badge/Built%20With-React-cyan?style=flat-square">
+    <img src="https://img.shields.io/badge/Written%20In-JavaScript-blue?style=flat-square">
+    <br>
+    <img src="https://img.shields.io/badge/Author-Ay0ubN0uri-magenta?style=for-the-badge">
 
-### Compiles and hot-reloads for development
+</p>
 
-```
-npm run start
-```
+### [+] Description
+A developer PortFolio 
 
-### Compiles and minifies for production
+### [+] [Link](https://ayoub-nouri.vercel.app)
 
-```
-npm run build
-```
+### [+] Find me on 
+<a href="mailto:ayoub.nouri105@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-ayoub.nouri105@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 
-### Lints and fixes files
-
-```
-npm run lint
-```
