@@ -16,6 +16,12 @@ const skillContent = [
     endCount: "93",
   },
   {
+    name: "Malware Analysis",
+    numberPercent: "90",
+    startCount: "0",
+    endCount: "90",
+  },
+  {
     name: "Web Scraping",
     numberPercent: "90",
     startCount: "0",
@@ -40,10 +46,22 @@ const skillContent = [
     endCount: "85",
   },
   {
-    name: "Java",
+    name: "Java/JavaFX",
     numberPercent: "85",
     startCount: "0",
     endCount: "85",
+  },
+  {
+    name: "PowerShell",
+    numberPercent: "85",
+    startCount: "0",
+    endCount: "85",
+  },
+  {
+    name: "C#",
+    numberPercent: "80",
+    startCount: "0",
+    endCount: "80",
   },
 ];
 

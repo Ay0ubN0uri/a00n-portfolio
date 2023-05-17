@@ -132,7 +132,7 @@ const SliderTwo = () => {
                   <TextLoop>
                     <p className="loop-text lead">Full-Stack Web Developer</p>
                     <p className="loop-text lead">Bug Bounty Hunter</p>
-                    <p className="loop-text lead">Software Engineer</p>
+                    <p className="loop-text lead">Blockchain Developer</p>
                   </TextLoop>
                 </div>
                 <p
@@ -149,13 +149,13 @@ const SliderTwo = () => {
                   data-aos-duration="1200"
                   data-aos-delay="400"
                 >
-                  <a
+                  {/* <a
                     className="px-btn px-btn-white"
                     href="#"
-                    // download
+                    download
                   >
                     {sliderContent.btnText}
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </div>
