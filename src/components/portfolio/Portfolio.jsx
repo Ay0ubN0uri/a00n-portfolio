@@ -55,26 +55,24 @@ const tabListContent = [
         alterText: "Java Store",
         // portfolioLink:"#",
       },
-      // {
-      //   img: "/img/portfolio/m-portfolio-5.jpg",
-      //   width: 400,
-      //   height: 700,
-      //   title: "Chatting Application",
-      //   subTitle: "Codecanyon Market",
-      //   alterText: "Bottle Illustration",
-      //   portfolioLink:
-      //     "https://dribbble.com/shots/16529158-Waxon-Personal-Portfolio-VueJS-Template-RTL",
-      // },
-      // {
-      //   img: "/img/portfolio/m-portfolio-6.jpg",
-      //   width: 400,
-      //   height: 500,
-      //   title: "Web Application",
-      //   subTitle: "Behance Shot",
-      //   alterText: "Web Application",
-      //   portfolioLink:
-      //     "https://dribbble.com/shots/16529226-Krozo-Personal-Portfolio-React-Template",
-      // },
+      {
+        img: "/img/portfolio/py-vsualizer.png",
+        width: 3840,
+        height: 2042,
+        title: "Vehicule Routing Visualizer",
+        subTitle: "Vehicule Routing Visualizer App",
+        alterText: "Vehicule Routing Visualizer",
+      },
+      {
+        img: "/img/portfolio/random-wallpaper.png",
+        width: 3835,
+        height: 2039,
+        title: "Random Wallpaper",
+        subTitle: "Transforming Your Device with Dynamic Wallpapers and Inspirational Quotes",
+        alterText: "Random Wallpaper",
+        portfolioLink:
+          "https://github.com/Ay0ubN0uri/Random-Wallpaper",
+      },
       // {
       //   img: "/img/portfolio/m-portfolio-7.jpg",
       //   width: 400,
