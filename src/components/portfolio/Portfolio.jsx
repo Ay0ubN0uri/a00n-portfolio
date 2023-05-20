@@ -12,15 +12,14 @@ const breakpointColumnsObj = {
   500: 1,
 };
 
-const tabList = ["All", "Branding", "Photography", "Fashion", "Product"];
+const tabList = ["All", "Mobile", "Desktop", "Web"];
 const tabListContent = [
   {
     porftoliItems: [
       {
         img: "/img/portfolio/linkedin-scraper.png",
-        // img: "/img/portfolio/m-portfolio-1.jpg",
-        width: 400,
-        height: 550,
+        width: 1014,
+        height: 1448,
         title: "Linkedin Scraper",
         subTitle: "A linkedin scraper for scraping working email addresses from LinkedIn profiles in record time!",
         alterText: "Linkedin Scraper",
@@ -33,30 +32,29 @@ const tabListContent = [
         height: 2046,
         title: "Udemy Enroller",
         subTitle: "Paid courses for free!",
-        alterText: "Illustration",
+        alterText: "Udemy Enroller",
         portfolioLink:
           "https://www.linkedin.com/posts/ayoub-nouri-73532a244_want-to-learn-new-skills-without-breaking-activity-7056666663114436609-SVHs",
       },
-      // {
-      //   img: "/img/portfolio/m-portfolio-3.jpg",
-      //   width: 400,
-      //   height: 700,
-      //   title: "Visual Design",
-      //   subTitle: "Themeforest Marke",
-      //   alterText: "Business Mockup",
-      //   portfolioLink:
-      //     "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
-      // },
-      // {
-      //   img: "/img/portfolio/m-portfolio-4.jpg",
-      //   width: 400,
-      //   height: 400,
-      //   title: "Business Card",
-      //   subTitle: "Graphicriver Market",
-      //   alterText: "E-Cosmetics",
-      //   portfolioLink:
-      //     "https://dribbble.com/shots/16545341-Imroz-Vue-JS-Creative-Agency-Portfolio-Template",
-      // },
+      {
+        img: "/img/portfolio/bot-insta.png",
+        width: 1833,
+        height: 1469,
+        title: "Instagram Bot",
+        subTitle: "A Bot for instagram",
+        alterText: "Instagram Bot",
+        portfolioLink:
+          "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
+      },
+      {
+        img: "/img/portfolio/java-boutique.png",
+        width: 2248,
+        height: 1358,
+        title: "Java Store",
+        subTitle: "Java-based app for seamless online shopping",
+        alterText: "Java Store",
+        // portfolioLink:"#",
+      },
       // {
       //   img: "/img/portfolio/m-portfolio-5.jpg",
       //   width: 400,
