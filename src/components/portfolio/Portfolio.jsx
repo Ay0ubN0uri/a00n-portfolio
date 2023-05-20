@@ -73,194 +73,174 @@ const tabListContent = [
         portfolioLink:
           "https://github.com/Ay0ubN0uri/Random-Wallpaper",
       },
-      // {
-      //   img: "/img/portfolio/m-portfolio-7.jpg",
-      //   width: 400,
-      //   height: 700,
-      //   title: "Business Card",
-      //   subTitle: "Graphicriver Market",
-      //   alterText: "Business Card",
-      //   portfolioLink:
-      //     "https://dribbble.com/shots/16529282-Shane-Personal-Portfolio-React-Template",
-      // },
-      // {
-      //   img: "/img/portfolio/m-portfolio-8.jpg",
-      //   width: 400,
-      //   height: 550,
-      //   title: "Chatting App Design",
-      //   subTitle: "Codecanyon Market",
-      //   alterText: "Chatting App Design",
-      //   portfolioLink:
-      //     "https://www.behance.net/gallery/128278341/Imroz-Vue-JS-Creative-Agency-Portfolio-Template",
-      // },
-      // {
-      //   img: "/img/portfolio/m-portfolio-9.jpg",
-      //   width: 400,
-      //   height: 400,
-      //   title: "Web Motion",
-      //   subTitle: "Behance Shot",
-      //   alterText: "Web Motion",
-      //   portfolioLink: "https://www.facebook.com/ibthemes",
-      // },
+      {
+        img: "/img/portfolio/whatsapp-bot.jpeg",
+        width: 1280,
+        height: 717,
+        title: "Whatsapp Bot",
+        subTitle: "A Bot for whatsapp",
+        alterText: "Whatsapp Bot",
+      },
+      {
+        img: "/img/portfolio/expense-tracker.png",
+        width: 1485,
+        height: 2640,
+        title: "Expense Tracker",
+        subTitle: "Simplify Your Finances with our Mobile Expense Tracker",
+        alterText: "Expense Tracker",
+      },
+      {
+        img: "/img/portfolio/pokedex.png",
+        width: 1080,
+        height: 1920,
+        title: "Pokedex",
+        subTitle: "App that displays a list of all Pokemons and their details, as well as a categorized view of the Pokemons",
+        alterText: "Pokedex",
+        portfolioLink:
+          "https://github.com/Ay0ubN0uri/pokedex",
+      },
+      {
+        img: "/img/portfolio/pharmacy-hunt.png",
+        width: 1080,
+        height: 1920,
+        title: "Pharmacy Hunter",
+        subTitle: "Discover Nearby Pharmacies with Ease",
+        alterText: "Pharmacy Hunter",
+      },
     ],
   },
-  // {
-  //   porftoliItems: [
-  //     {
-  //       img: "/img/portfolio/m-portfolio-6.jpg",
-  //       width: 400,
-  //       height: 550,
-  //       title: "Web Application",
-  //       subTitle: "Behance Shot",
-  //       alterText: "Web Application",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529226-Krozo-Personal-Portfolio-React-Template",
-  //     },
-  //     {
-  //       img: "/img/portfolio/m-portfolio-3.jpg",
-  //       width: 400,
-  //       height: 700,
-  //       title: "Visual Design",
-  //       subTitle: "Themeforest Marke",
-  //       alterText: "Business Mockup",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
-  //     },
-  //     {
-  //       img: "/img/portfolio/m-portfolio-8.jpg",
-  //       width: 400,
-  //       height: 550,
-  //       title: "Chatting App Design",
-  //       subTitle: "Codecanyon Market",
-  //       alterText: "Chatting App Design",
-  //       portfolioLink:
-  //         "https://www.behance.net/gallery/128278341/Imroz-Vue-JS-Creative-Agency-Portfolio-Template",
-  //     },
-  //     {
-  //       img: "/img/portfolio/m-portfolio-4.jpg",
-  //       width: 400,
-  //       height: 400,
-  //       title: "Business Card",
-  //       subTitle: "Graphicriver Market",
-  //       alterText: "E-Cosmetics",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16545341-Imroz-Vue-JS-Creative-Agency-Portfolio-Template",
-  //     },
-  //   ],
-  // },
-  // {
-  //   porftoliItems: [
-  //     {
-  //       img: "/img/portfolio/m-portfolio-2.jpg",
-  //       width: 400,
-  //       height: 400,
-  //       title: "E-Learning App",
-  //       subTitle: "Nuna ios App",
-  //       alterText: "Illustration",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529350-Nairo-Personal-Portfolio-React-Template",
-  //     },
-
-  //     {
-  //       img: "/img/portfolio/m-portfolio-5.jpg",
-  //       width: 400,
-  //       height: 700,
-  //       title: "Chatting Application",
-  //       subTitle: "Codecanyon Market",
-  //       alterText: "Bottle Illustration",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529158-Waxon-Personal-Portfolio-VueJS-Template-RTL",
-  //     },
-  //     {
-  //       img: "/img/portfolio/m-portfolio-6.jpg",
-  //       width: 400,
-  //       height: 550,
-  //       title: "Web Application",
-  //       subTitle: "Behance Shot",
-  //       alterText: "Web Application",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529226-Krozo-Personal-Portfolio-React-Template",
-  //     },
-  //   ],
-  // },
-  // {
-  //   porftoliItems: [
-  //     {
-  //       img: "/img/portfolio/m-portfolio-1.jpg",
-  //       width: 400,
-  //       height: 550,
-  //       title: "Bottle Illustration",
-  //       subTitle: "Figma Shoot",
-  //       alterText: "Bottle Illustration",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529339-Beny-Personal-Portfolio-React-Template",
-  //     },
-  //     {
-  //       img: "/img/portfolio/m-portfolio-7.jpg",
-  //       width: 400,
-  //       height: 700,
-  //       title: "Business Card",
-  //       subTitle: "Graphicriver Market",
-  //       alterText: "Business Card",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529282-Shane-Personal-Portfolio-React-Template",
-  //     },
-  //     {
-  //       img: "/img/portfolio/m-portfolio-9.jpg",
-  //       width: 400,
-  //       height: 400,
-  //       title: "Web Motion",
-  //       subTitle: "Behance Shot",
-  //       alterText: "Web Motion",
-  //       portfolioLink: "https://www.facebook.com/ibthemes",
-  //     },
-  //   ],
-  // },
-  // {
-  //   porftoliItems: [
-  //     {
-  //       img: "/img/portfolio/m-portfolio-2.jpg",
-  //       width: 400,
-  //       height: 400,
-  //       title: "E-Learning App",
-  //       subTitle: "Nuna ios App",
-  //       alterText: "Illustration",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529350-Nairo-Personal-Portfolio-React-Template",
-  //     },
-  //     {
-  //       img: "/img/portfolio/m-portfolio-3.jpg",
-  //       width: 400,
-  //       height: 700,
-  //       title: "Visual Design",
-  //       subTitle: "Themeforest Marke",
-  //       alterText: "Business Mockup",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
-  //     },
-
-  //     {
-  //       img: "/img/portfolio/m-portfolio-5.jpg",
-  //       width: 400,
-  //       height: 700,
-  //       title: "Chatting Application",
-  //       subTitle: "Codecanyon Market",
-  //       alterText: "Bottle Illustration",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529158-Waxon-Personal-Portfolio-VueJS-Template-RTL",
-  //     },
-  //     {
-  //       img: "/img/portfolio/m-portfolio-6.jpg",
-  //       width: 400,
-  //       height: 550,
-  //       title: "Web Application",
-  //       subTitle: "Behance Shot",
-  //       alterText: "Web Application",
-  //       portfolioLink:
-  //         "https://dribbble.com/shots/16529226-Krozo-Personal-Portfolio-React-Template",
-  //     },
-  //   ],
-  // },
+  {
+    porftoliItems: [
+      {
+        img: "/img/portfolio/expense-tracker.png",
+        width: 1485,
+        height: 2640,
+        title: "Expense Tracker",
+        subTitle: "Simplify Your Finances with our Mobile Expense Tracker",
+        alterText: "Expense Tracker",
+      },
+      {
+        img: "/img/portfolio/pokedex.png",
+        width: 1080,
+        height: 1920,
+        title: "Pokedex",
+        subTitle: "App that displays a list of all Pokemons and their details, as well as a categorized view of the Pokemons",
+        alterText: "Pokedex",
+        portfolioLink:
+          "https://github.com/Ay0ubN0uri/pokedex",
+      },
+      {
+        img: "/img/portfolio/pharmacy-hunt.png",
+        width: 1080,
+        height: 1920,
+        title: "Pharmacy Hunter",
+        subTitle: "Discover Nearby Pharmacies with Ease",
+        alterText: "Pharmacy Hunter",
+      },
+    ],
+  },
+  {
+    porftoliItems: [
+      {
+        img: "/img/portfolio/linkedin-scraper.png",
+        width: 1014,
+        height: 1448,
+        title: "Linkedin Scraper",
+        subTitle: "A linkedin scraper for scraping working email addresses from LinkedIn profiles in record time!",
+        alterText: "Linkedin Scraper",
+        portfolioLink:
+          "https://github.com/Ay0ubN0uri/Linkedin-Scraper",
+      },
+      {
+        img: "/img/portfolio/udemy-enroller.png",
+        width: 3839,
+        height: 2046,
+        title: "Udemy Enroller",
+        subTitle: "Paid courses for free!",
+        alterText: "Udemy Enroller",
+        portfolioLink:
+          "https://www.linkedin.com/posts/ayoub-nouri-73532a244_want-to-learn-new-skills-without-breaking-activity-7056666663114436609-SVHs",
+      },
+      {
+        img: "/img/portfolio/bot-insta.png",
+        width: 1833,
+        height: 1469,
+        title: "Instagram Bot",
+        subTitle: "A Bot for instagram",
+        alterText: "Instagram Bot",
+        portfolioLink:
+          "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
+      },
+      {
+        img: "/img/portfolio/java-boutique.png",
+        width: 2248,
+        height: 1358,
+        title: "Java Store",
+        subTitle: "Java-based app for seamless online shopping",
+        alterText: "Java Store",
+        // portfolioLink:"#",
+      },
+      {
+        img: "/img/portfolio/py-vsualizer.png",
+        width: 3840,
+        height: 2042,
+        title: "Vehicule Routing Visualizer",
+        subTitle: "Vehicule Routing Visualizer App",
+        alterText: "Vehicule Routing Visualizer",
+      },
+      {
+        img: "/img/portfolio/random-wallpaper.png",
+        width: 3835,
+        height: 2039,
+        title: "Random Wallpaper",
+        subTitle: "Transforming Your Device with Dynamic Wallpapers and Inspirational Quotes",
+        alterText: "Random Wallpaper",
+        portfolioLink:
+          "https://github.com/Ay0ubN0uri/Random-Wallpaper",
+      },
+      {
+        img: "/img/portfolio/whatsapp-bot.jpeg",
+        width: 1280,
+        height: 717,
+        title: "Whatsapp Bot",
+        subTitle: "A Bot for whatsapp",
+        alterText: "Whatsapp Bot",
+      },
+    ],
+  },
+  {
+    porftoliItems: [
+      {
+        img: "/img/portfolio/certify-chain.png",
+        width: 3813,
+        height: 1829,
+        title: "Certify Chain",
+        subTitle: "Blockchain-based platform for diploma verification",
+        alterText: "Certify Chain",
+        portfolioLink:
+          "https://certify-chain.vercel.app",
+      },
+      {
+        img: "/img/portfolio/m-portfolio-7.jpg",
+        width: 400,
+        height: 700,
+        title: "Student management system",
+        subTitle: "Streamline Student Management with Odoo-powered System",
+        alterText: "Student management system",
+        portfolioLink:
+          "https://dribbble.com/shots/16529282-Shane-Personal-Portfolio-React-Template",
+      },
+      {
+        img: "/img/portfolio/m-portfolio-9.jpg",
+        width: 400,
+        height: 400,
+        title: "Web Motion",
+        subTitle: "Behance Shot",
+        alterText: "Web Motion",
+        portfolioLink: "https://www.facebook.com/ibthemes",
+      },
+    ],
+  },
 ];
 
 const Portfolio = () => {
