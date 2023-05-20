@@ -67,12 +67,12 @@ const HeaderTwo = () => {
                 <span className="item">Resume</span>
               </a>
             </li>
-            {/* <li>
+            <li>
               <a className="nav-link" href="#work" onClick={handleClick}>
                 <FiBriefcase />
                 <span className="item">Work</span>
               </a>
-            </li> */}
+            </li>
             {/* <li>
               <a className="nav-link" href="#blog" onClick={handleClick}>
                 <FaBlog />
