@@ -43,8 +43,6 @@ const tabListContent = [
         title: "Instagram Bot",
         subTitle: "A Bot for instagram",
         alterText: "Instagram Bot",
-        portfolioLink:
-          "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
       },
       {
         img: "/img/portfolio/java-boutique.png",
@@ -194,8 +192,6 @@ const tabListContent = [
         title: "Instagram Bot",
         subTitle: "A Bot for instagram",
         alterText: "Instagram Bot",
-        portfolioLink:
-          "https://dribbble.com/shots/16529407-Deski-Saas-Software-React-Template",
       },
       {
         img: "/img/portfolio/java-boutique.png",
