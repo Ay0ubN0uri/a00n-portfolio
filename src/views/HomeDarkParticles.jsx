@@ -27,14 +27,14 @@ const HomeLightSidebarTwo = () => {
       <Resume />
       {/* End Resume Section */}
 
-      {/* <section id="work" className="section theme-light dark-bg">
+      <section id="work" className="section theme-light dark-bg">
         <div className="container">
           <div className="title">
             <h3>My Projects.</h3>
           </div>
           <Portfolio />
         </div>
-      </section> */}
+      </section>
       {/* End Portfolio Section */}
 
       {/* <section id="blog" className="section">
